@@ -1,0 +1,25 @@
+//
+// Created by  Easy Living on 10/24/20.
+//
+
+#ifndef P2_MAXQUERY_H
+#define P2_MAXQUERY_H
+
+#include "../Query.h"
+
+class MaxQuery : public ComplexQuery {
+    static constexpr const char *qname = "MAX";
+    std::vector<std::pair<Table::FieldIndex, Table::ValueType>> max;
+public:
+    using ComplexQuery::ComplexQuery;
+
+    QueryResult::Ptr execute() override;
+
+    std::string toString() override;
+
+    inline const char *getQname() override {
+        return qname;
+    };
+};
+
+#endif //P2_MAXQUERY_H

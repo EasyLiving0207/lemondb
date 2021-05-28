@@ -1,0 +1,3 @@
+/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/CMakeFiles/lemondb.dir

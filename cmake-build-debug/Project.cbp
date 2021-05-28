@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lemondb">
+				<Option output="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/lemondb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lemondb"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lemondb/fast">
+				<Option output="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/lemondb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lemondb/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/easyliving/Desktop/Files/FA2020/VE482/p2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/db/Database.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/db/Database.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/db/Table.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/db/Table.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/main.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/Query.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/Query.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/QueryBuilders.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/QueryBuilders.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/QueryParser.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/QueryParser.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/QueryResult.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/QueryResult.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/AddQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/AddQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/CountQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/CountQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/DeleteQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/DeleteQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/DuplicateQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/DuplicateQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/InsertQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/InsertQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/MaxQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/MaxQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/MinQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/MinQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/SelectQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/SelectQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/SubQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/SubQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/SumQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/SumQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/SwapQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/SwapQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/UpdateQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/data/UpdateQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/CopyTableQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/CopyTableQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/DropTableQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/DropTableQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/DumpTableQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/DumpTableQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/ListTableQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/ListTableQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/ListenQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/ListenQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/LoadTableQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/LoadTableQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/PrintTableQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/PrintTableQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/QuitQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/QuitQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/TruncateTableQuery.cpp">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/query/management/TruncateTableQuery.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/thread/ThreadPool.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/utils/formatter.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/utils/uexception.h">
+			<Option target="lemondb"/>
+		</Unit>
+		<Unit filename="/Users/easyliving/Desktop/Files/FA2020/VE482/p2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
